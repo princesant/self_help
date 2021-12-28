@@ -6,7 +6,7 @@ class Frontpage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFF81D4FA),
+      backgroundColor: Color(0x123),
     );
   }
 }
